@@ -109,7 +109,7 @@ section{ padding:120px 0; position:relative; }
   padding:14px 0; border-color:var(--line-soft);
 }
 .header__inner{ display:flex; align-items:center; justify-content:space-between; gap:24px; }
-.header__logo img{ height:44px; width:auto; }
+.header__logo img{ height:45px; width:auto; }
 
 .nav__list{ display:flex; gap:34px; }
 .nav__link{
